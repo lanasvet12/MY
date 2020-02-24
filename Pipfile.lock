@@ -1,1 +1,2 @@
-(my-project)$ pipenv lock
+
+(my-project)$ pipenv update
