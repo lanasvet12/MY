@@ -1,5 +1,4 @@
 Flask==1.0.2
 gunicorn==19.9.0
 python-dotenv==0.10.1
-Werkzeug==0.15.2
-wincertstore==0.2
+
