@@ -6,9 +6,4 @@ def index():
 @app.route("/salvador")
 def salvador():
     return "Hello, Salvador"
-@app.route("/home)
-def home():
-    return render_template("home.html")
-@app.route("/about)
-def about():
-    return render_template("about.html")
+
